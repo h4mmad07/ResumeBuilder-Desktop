@@ -16,12 +16,13 @@ A robust C# desktop application built using Windows Forms that enables users to 
 
 ## 📦 How to Run the App
 ### For Users (Standalone):
-1. Navigate to the `App` folder in this repository.
-2. Download `ResumeBuilder.exe`.
-3. Double-click to run! (Requires .NET Runtime installed on Windows).
+1. Navigate to the **Releases** section on the right side of this repository page.
+2. Click on the latest release (**v1.0.0 - Production Desktop App**).
+3. Under the "Assets" section, download `ResumeBuilder.exe`.
+4. Double-click to run! (Requires .NET Runtime installed on Windows).
 
 ### For Developers (Visual Studio):
-1. Clone this repository.
+1. Clone this repository: `git clone https://github.com/h4mmad07/ResumeBuilder-Desktop.git`
 2. Open `ResumeBuilder.sln` in Visual Studio.
 3. Build and Run the project (`F5`).
 
