@@ -1,0 +1,133 @@
+{
+  "FullName": "Muhammad Hammad",
+  "JobTitle": "Software Engineer & AI Enthusiast",
+  "Email": "mh9456605@gmail.com",
+  "Phone": "\u002B923084098287",
+  "Address": "Chak No. 2/KMR P/O Kot Abbas Shaheed, Multan",
+  "Summary": "Dedicated and analytical Computer Science student with a strong foundation in Software Engineering, Database Design, and Artificial Intelligence. Proven experience in developing applications using C++ and handling data with SQL Server and Microsoft Excel. Adaptable learner and effective team collaborator, combining technical problem-solving with a creative background in digital media.",
+  "Languages": "Urdu, English",
+  "ProfileImagePath": "C:\\Users\\Muhamamd Hammad\\Downloads\\hammad.jpeg",
+  "EducationList": [
+    {
+      "Institution": "MNS University of Agriculture, Multan (MNSUAM)",
+      "Degree": "BS",
+      "FieldOfStudy": "Computer Science",
+      "StartDate": "2023",
+      "EndDate": "2027",
+      "Grade": "A"
+    },
+    {
+      "Institution": "Nishat College of Science",
+      "Degree": "Intermediate",
+      "FieldOfStudy": "ICS (Computer Engineering)",
+      "StartDate": "2021",
+      "EndDate": "2023",
+      "Grade": "A"
+    },
+    {
+      "Institution": "Govt. High School 2/KMR, Multan",
+      "Degree": "Matric",
+      "FieldOfStudy": "Science",
+      "StartDate": "2019",
+      "EndDate": "2021",
+      "Grade": ""
+    }
+  ],
+  "ExperienceList": [
+    {
+      "Company": "Decode Labs",
+      "JobTitle": "Artificial Intelligence Intern",
+      "Description": "Selected for a competitive remote internship focusing on practical industry applications of machine learning, neural networks (CNN/ANN), and intelligent systems. Collaborating on developing and implementing AI-driven project milestones and real-world smart solutions.",
+      "StartDate": "June 2026",
+      "EndDate": "Present"
+    },
+    {
+      "Company": "NextFrame Media Society",
+      "JobTitle": "Primary Coordinator & Cabinet Member",
+      "Description": "Managed society branding, visual identity, and logo design. Supervised cabinet member coordination and creative workflows for university-wide media coverage.",
+      "StartDate": "November 2025",
+      "EndDate": "February 2026"
+    },
+    {
+      "Company": "PNP",
+      "JobTitle": "Media Monitoring & Video Editing Intern",
+      "Description": "Completed a specialized internship program focusing on media tracking, social media management, strategic content curation, and professional video editing workflows.",
+      "StartDate": "July 2025",
+      "EndDate": "July 2025"
+    },
+    {
+      "Company": "CBS Society (MNSUAM)",
+      "JobTitle": "Media Head, Lead Photographer & Videographer",
+      "Description": "Led the creative media team in documenting official campus events, managing digital content asset creation, and handling landscape and cinematic photography production.",
+      "StartDate": "2023",
+      "EndDate": "Present"
+    },
+    {
+      "Company": "MNSUAM",
+      "JobTitle": "MS Office — Academic & Project Use",
+      "Description": "Utilized advanced MS Excel features for complex data management, spreadsheet organization, and analytical tracking. Drafted, structured, and maintained professional academic reports and software documentation using MS Word.",
+      "StartDate": "2021",
+      "EndDate": "Present"
+    }
+  ],
+  "SkillList": [
+    {
+      "Name": "C\u002B\u002B",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Python",
+      "Proficiency": 2
+    },
+    {
+      "Name": "SQL Server",
+      "Proficiency": 2
+    },
+    {
+      "Name": "Object-Oriented Programming (OOP)",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Unity Engine (C# Game Development)",
+      "Proficiency": 2
+    },
+    {
+      "Name": "Machine Learning (CNN & ANN)",
+      "Proficiency": 2
+    },
+    {
+      "Name": "MS Excel",
+      "Proficiency": 3
+    },
+    {
+      "Name": "MS Word",
+      "Proficiency": 3
+    },
+    {
+      "Name": "MS PowerPoint",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Video Editing",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Cinematic Content Creation",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Teamwork & Project Coordination",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Problem-solving",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Data Management",
+      "Proficiency": 3
+    }
+  ],
+  "CreatedDate": "2026-05-22T17:17:44.9138627+05:00",
+  "ModifiedDate": "2026-06-03T08:20:41.0000000+05:00"
+}

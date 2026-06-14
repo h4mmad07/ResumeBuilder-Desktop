@@ -1,0 +1,53 @@
+{
+  "name": "Muhammad Hammad",
+  "title": "Student",
+  "institution": "MNSUAM",
+  "profile_summary": "An enthusiastic Computer Science undergraduate at MNS University of Agriculture, Multan, passionate about software development, AI, and problem-solving. Skilled in C++, SQL, and video editing, dedicated to contributing to team success and exploring new technologies.",
+  "contact": {
+    "phone": "+923084098287",
+    "email": "mh9456605@gmail.com",
+    "address": "Chak No. 2/KMR P/O Kot Abbas Shaheed, Multan"
+  },
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "institution": "MNS University of Agriculture, Multan (MNSUAM)",
+      "period": "2023–2027"
+    },
+    {
+      "degree": "Intermediate Pre-Engineering",
+      "institution": "Nishat College of Science",
+      "period": "2021–2023"
+    },
+    {
+      "degree": "Matric Science",
+      "institution": "Govt. High School 2/KMR, Multan",
+      "period": "2019–2021"
+    }
+  ],
+  "languages": ["Urdu", "English"],
+  "technical_skills": {
+    "office_automation": {
+      "level": "Expert",
+      "tools": [
+        "MS Excel (data analysis, formulas)",
+        "MS Word (professional documentation)",
+        "MS PowerPoint (high-impact presentations)"
+      ]
+    },
+    "creative": {
+      "level": "Expert",
+      "skills": ["Video Editing (cinematic and social media content creation)"]
+    },
+    "programming": ["C++", "SQL"],
+    "soft_skills": {
+      "level": "Expert",
+      "skills": ["Teamwork", "Problem-solving", "Time Management", "Data Management"]
+    }
+  },
+  "experience": [
+    {
+      "description": "Utilized MS Office for professional communication and project tracking throughout the development lifecycle"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "FullName": "Muhammad Hammad",
+  "Email": "mh9456605@gmail.com",
+  "Phone": "03084098287",
+  "Address": "Chak No. 2/KMR P/O Kot Abbass Shaheed, Multan.",
+  "Summary": "Motivated BSCS student with a strong foundation in software development and problem-solving. Skilled in C#, Windows Forms, and database management, with hands-on experience in developing desktop applications such as a Resume Builder with PDF generation. Passionate about learning new technologies and building practical, user-friendly solutions. Seeking opportunities to grow as a software developer and contribute to innovative projects",
+  "ProfileImagePath": "C:\\Users\\Muhamamd Hammad\\Downloads\\hammad.jpeg",
+  "EducationList": [
+    {
+      "Institution": "Govt. High School2/KMR, Multan.",
+      "Degree": "Matric",
+      "FieldOfStudy": "Computer",
+      "StartDate": "2019",
+      "EndDate": "2021",
+      "Grade": "A\u002B"
+    },
+    {
+      "Institution": "Nishat College of Science, Multan",
+      "Degree": "Inter",
+      "FieldOfStudy": "ICS",
+      "StartDate": "2021",
+      "EndDate": "2023",
+      "Grade": "A"
+    },
+    {
+      "Institution": "MNSUAM",
+      "Degree": "BSCS",
+      "FieldOfStudy": "Computer Science",
+      "StartDate": "2023",
+      "EndDate": "2027",
+      "Grade": "A"
+    }
+  ],
+  "ExperienceList": [],
+  "SkillList": [
+    {
+      "Name": "Office",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Video Editor",
+      "Proficiency": 2
+    },
+    {
+      "Name": "AI",
+      "Proficiency": 1
+    }
+  ],
+  "CreatedDate": "2026-05-22T15:36:25.469196+05:00",
+  "ModifiedDate": "2026-05-22T15:36:29.5926017+05:00"
+}

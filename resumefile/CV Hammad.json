@@ -1,0 +1,97 @@
+{
+  "FullName": "Muhammad Hammad",
+  "JobTitle": "Student",
+  "Email": "mh9456605@gmail.com",
+  "Phone": "\u002B923084098287",
+  "Address": "Chak No. 2/KMR P/O Kot Abbas Shaheed, Multan",
+  "Summary": "An enthusiastic Computer Science undergraduate at MNS University of Agriculture, Multan, passionate about software development, AI, and problem-solving. Skilled in C\u002B\u002B, SQL, and video editing, dedicated to contributing to team success and exploring new technologies.",
+  "Languages": "Urdu, English",
+  "ProfileImagePath": "C:\\Users\\Muhamamd Hammad\\Downloads\\hammad.jpeg",
+  "EducationList": [
+    {
+      "Institution": "MNS University of Agriculture, Multan (MNSUAM)",
+      "Degree": " BS",
+      "FieldOfStudy": "Computer Science",
+      "StartDate": "2023 ",
+      "EndDate": "2027",
+      "Grade": ""
+    },
+    {
+      "Institution": "Nishat College of Science",
+      "Degree": "Intermediate ",
+      "FieldOfStudy": "Pre-Engineering",
+      "StartDate": "2021",
+      "EndDate": "2023",
+      "Grade": ""
+    },
+    {
+      "Institution": "Govt. High School 2/KMR, Multan",
+      "Degree": "Matric",
+      "FieldOfStudy": "Science",
+      "StartDate": "2019",
+      "EndDate": "2021",
+      "Grade": ""
+    }
+  ],
+  "ExperienceList": [
+    {
+      "Company": "MNSUAM",
+      "JobTitle": "MS Office \u2014 Academic \u0026 Project Use",
+      "Description": "Utilized MS Office for professional communication and project tracking throughout the development lifecycle.",
+      "StartDate": "2023",
+      "EndDate": "Present"
+    }
+  ],
+  "SkillList": [
+    {
+      "Name": "C\u002B\u002B",
+      "Proficiency": 2
+    },
+    {
+      "Name": "SQL",
+      "Proficiency": 2
+    },
+    {
+      "Name": "MS Excel",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Ms Word",
+      "Proficiency": 3
+    },
+    {
+      "Name": "MS PowerPoint",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Video Editting",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Cinematic Content",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Social Media Cotent",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Teamwork",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Problem-solving",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Time Management",
+      "Proficiency": 3
+    },
+    {
+      "Name": "Data Management",
+      "Proficiency": 3
+    }
+  ],
+  "CreatedDate": "2026-05-22T17:17:44.9138627+05:00",
+  "ModifiedDate": "2026-05-22T17:17:49.0409106+05:00"
+}
